@@ -16,5 +16,5 @@ NCC-1701: Working repository for active development on the [USS Enterprise](http
 
 ### Resources
 
-- This may be useful for beginners: the "md" suffix on this `README.md` file indicates it's a ["markdown"](https://en.wikipedia.org/wiki/Markdown) file. Here's a useful "beginner's guide" to the [specific markdown dialect](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) (i.e. the "flavor" of markdown) used on GitHb.
+- The "md" suffix on this `README.md` file indicates it's a ["markdown"](https://en.wikipedia.org/wiki/Markdown) file. Here's a useful "beginner's guide" to the [specific markdown dialect](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) (i.e. the "flavor" of markdown) used on GitHb.
 
