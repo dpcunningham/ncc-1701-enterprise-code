@@ -22,6 +22,26 @@ This fictional project is a benchmark for a _"leanest possible"_ workflow proces
 
 Details of this argument are provided in the associated [project wiki](https://github.com/dpcunningham/ncc-1701-enterprise-specs/wiki/A-Lean-Project-Management-Workflow-Based-Entirely-Within-GitHub) (bulletin board), which demonstrates another valuable tool (i.e. organized knowledge collection) for project management in this lean workflow based entirely within GitHub.
 
+---
+
+### Organization -- Four basic components:
+
+1. A partnered [**spec repository**](https://github.com/dpcunningham/ncc-1701-enterprise-specs): collects the various features (as issues and epics);
+2. ...with its own associated [**timeline project board**]((https://github.com/dpcunningham/ncc-1701-enterprise-specs/projects)): batches the features into staged releases;
+3. _This_ **code repository**: periodically accepts batches of features (as issues & epics) based on the timeline project board;
+4. With an associated [**build project board**](https://github.com/dpcunningham/ncc-1701-enterprise-code/projects): assigns specific issues to available crew. 
+
+
+...created in this order (GitHub-specific workflow):
+  1. Create the spec repository
+  2. Within the spec repository, create:
+     1. The timeline project
+     2. Tie it back to the spec repository
+  3. Create the code repository
+  4. Within the code repository, create:
+     1. The build project
+     2. Tie it back to the code repository
+
 --- 
 
 ### Resources
