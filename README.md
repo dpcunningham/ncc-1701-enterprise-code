@@ -1,5 +1,5 @@
 # ncc-1701-enterprise-code
-NCC-1701: Working repository for active development on the [USS Enterprise](https://www.startrek.com/database_article/enterprise).  
+NCC-1701: Working "code" repository for active development on the [USS Enterprise](https://www.startrek.com/database_article/enterprise).  
 
 - Issues &amp; epics batch-transferred from the "upstream" [spec repository](https://github.com/dpcunningham/ncc-1701-enterprise-specs) according to the planned releases in the [timeline project](https://github.com/dpcunningham/ncc-1701-enterprise-specs/projects).  
 
