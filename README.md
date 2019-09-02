@@ -30,6 +30,7 @@ Details of this argument are provided in the associated [project wiki](https://g
 2. ...uses its own associated [**timeline project board**](https://github.com/dpcunningham/ncc-1701-enterprise-specs/projects): to batch the features into staged releases;
 3. _This_ **code repository**: periodically accepts batches of features (as issues & epics) based on the timeline project board. Also contains bug issues discovered during testing and in production;
 4. ...uses an associated [**build project board**](https://github.com/dpcunningham/ncc-1701-enterprise-code/projects): to assign specific issues to available crew. 
+5. Each repository has an associated wiki (bulletin board) which can be used to organize a [project knowledge base](https://github.com/dpcunningham/ncc-1701-enterprise-code/wiki).
 
 
 ...created in this order (GitHub-specific workflow):
