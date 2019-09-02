@@ -24,7 +24,7 @@ Details of this argument are provided in the associated [project wiki](https://g
 
 ---
 
-### Organization -- Four basic components:
+### Organization -- Five Basic Components:
 
 1. A partnered "upstream" [**spec repository**](https://github.com/dpcunningham/ncc-1701-enterprise-specs): collects the various features (as issues and epics);
 2. ...uses its own associated [**timeline project board**](https://github.com/dpcunningham/ncc-1701-enterprise-specs/projects): to batch the features into staged releases;
