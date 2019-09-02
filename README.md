@@ -28,7 +28,7 @@ Details of this argument are provided in the associated [project wiki](https://g
 
 1. A partnered "upstream" [**spec repository**](https://github.com/dpcunningham/ncc-1701-enterprise-specs): collects the various features (as issues and epics);
 2. ...uses its own associated [**timeline project board**](https://github.com/dpcunningham/ncc-1701-enterprise-specs/projects): to batch the features into staged releases;
-3. _This_ **code repository**: periodically accepts batches of features (as issues & epics) based on the timeline project board;
+3. _This_ **code repository**: periodically accepts batches of features (as issues & epics) based on the timeline project board. Also contains bug issues discovered during testing and in production;
 4. ...uses an associated [**build project board**](https://github.com/dpcunningham/ncc-1701-enterprise-code/projects): to assign specific issues to available crew. 
 
 
