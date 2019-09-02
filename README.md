@@ -27,7 +27,7 @@ Details of this argument are provided in the associated [project wiki](https://g
 ### Organization -- Four basic components:
 
 1. A partnered [**spec repository**](https://github.com/dpcunningham/ncc-1701-enterprise-specs): collects the various features (as issues and epics);
-2. ...with its own associated [**timeline project board**]((https://github.com/dpcunningham/ncc-1701-enterprise-specs/projects)): batches the features into staged releases;
+2. ...with its own associated [**timeline project board**](https://github.com/dpcunningham/ncc-1701-enterprise-specs/projects): batches the features into staged releases;
 3. _This_ **code repository**: periodically accepts batches of features (as issues & epics) based on the timeline project board;
 4. With an associated [**build project board**](https://github.com/dpcunningham/ncc-1701-enterprise-code/projects): assigns specific issues to available crew. 
 
